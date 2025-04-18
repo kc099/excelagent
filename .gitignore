@@ -65,7 +65,6 @@ venv.bak/
 # Project specific
 output/
 *.log
-*.xlsx
 *.xls
 *.csv
 *.json
